@@ -106,7 +106,7 @@ time-series-forecasting/
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/time-series-forecasting.git
+   git clone https://github.com/dyakovlab/time-series-forecasting.git
    cd time-series-forecasting
    ```
 
